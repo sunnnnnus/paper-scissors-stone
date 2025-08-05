@@ -1,6 +1,6 @@
 # 🥢 猜拳決定吃什麼！
 
-👉 [點我玩遊戲](https://paper-scissors-stone-seven.vercel.app)
+👉 [點我試用](https://paper-scissors-stone-seven.vercel.app)
 
 這是一款為選擇困難症設計的迷你網頁，讓你和另一方輸入各自想吃的東西，透過電腦隨機猜拳決定去向！
 簡單、快速、超有趣 🍱🎮
